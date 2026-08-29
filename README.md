@@ -1,11 +1,21 @@
-# Step_semister_3 Daily Progress Log
+## Date: 29-08-2026
 
-## Date: 22-08-2026
 **Today's Work:**
-Completed 5 Control Flow live session problems in `feature/session_1`: Prime Check, Right-Angle Triangle pattern, Palindrome Check, GCD using Euclidean algorithm, and Armstrong Number Check[cite: 2].
+Completed Array class problems covering Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Two Sorted Arrays, and Rotate Array algorithms.
 
 **Next Session Plan:**
-Work on take-home assignment problems[cite: 1].
+Move to the next practice module for Array assignment problems and algorithms.
+
+**Issues Faced:**
+None
+
+## Date: 22-08-2026
+
+**Today's Work:**
+Completed Java Control Flow Category C problems covering Prime Number, Pattern Printing, Palindrome, GCD, and Armstrong Number algorithms[cite: 2].
+
+**Next Session Plan:**
+Move to the next practice module for Java control flow and algorithms[cite: 1].
 
 **Issues Faced:**
 None
